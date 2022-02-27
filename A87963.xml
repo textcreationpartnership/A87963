@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Scotland giving a true relation of the present posture of affairs in that kingdom, in reference to the expected invasion from France; : and particularly, the care that was taken to prevent the Castle of Edinburgh from being betrayed. : Together with two proclamations, the one against ministers not praying for Their Majesties King William and Queen Mary. : The other for a solemn national monthly-fast : licensed May the 7th, J.F. 1692.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87963</idno>
+            <idno type="STC">Wing L1502B</idno>
+            <idno type="STC">ESTC R179554</idno>
+            <idno type="EEBO-CITATION">43077530</idno>
+            <idno type="OCLC">ocm 43077530</idno>
+            <idno type="VID">151598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151598)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2266:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Scotland giving a true relation of the present posture of affairs in that kingdom, in reference to the expected invasion from France; : and particularly, the care that was taken to prevent the Castle of Edinburgh from being betrayed. : Together with two proclamations, the one against ministers not praying for Their Majesties King William and Queen Mary. : The other for a solemn national monthly-fast : licensed May the 7th, J.F. 1692.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tim. Goodwin at the Maidenhead in Fleetstreet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  England --  Early works to 1800.</term>
+               <term>Scotland --  History --  1689-1745 --  Sources.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151598:1" rendition="simple:additions"/>
+            <head>A <hi>Letter from Scotland:</hi> Giving a true Relation of the preſent Poſture of Affairs in that Kingdom, in reference to the ex<g ref="char:EOLhyphen"/>pected Invaſion from <hi>France;</hi> And particularly, the care that was taken to prevent the Caſtle of <hi>Edinburgh</hi> from being betrayed.</head>
+            <head type="sub">Together with two Proclamations, the one againſt Miniſters not Pray<g ref="char:EOLhyphen"/>ing for Their Majeſties King <hi>Willam</hi> and Queen <hi>Mary.</hi> The other for a Solemn National Monthly-Faſt</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed</hi> 
+                     <date> May the 7th, <hi>J. F.</hi> 1692.</date>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <hi>Edenburgh,</hi> 
+                        <date>
+                           <hi>April</hi> 30.</date>
+                     </dateline>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I AM ſorry to find by yours, that in <hi>En<g ref="char:EOLhyphen"/>gland</hi> you have no very good Opinion of us here, in this critical Juncture; but allow me to tell you, that though you have more Strength than we, we ſeem at leaſt to have as great Zeal. I ſhall give you on<g ref="char:EOLhyphen"/>ly the bare Matter of Fact. The Chancellor having an Expreſs from Mr. <hi>Johnſton</hi> our Se<g ref="char:EOLhyphen"/>cretary at <hi>London,</hi> called the Council, and imparted to them Her Majeſties Pleaſure, for putting the Kingdom in a poſture of Defence, that we might not be ſurprized in caſe our Enemies from abroad ſhould make any at<g ref="char:EOLhyphen"/>tempt upon our Coaſt, or in our Neighbour<g ref="char:EOLhyphen"/>hood, as it ſeems they intended; upon which the Council, in two or three meetings, did what belong'd to them to do, in the following particulars.</p>
+                  <p>The Commander in chief of the Forces had immediately Orders to poſt them ſo, as that they could conveniently and ſpeedily meet upon occaſion; and in order to this, a Thou<g ref="char:EOLhyphen"/>ſand Horſe and Dragoons are to lye at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> or not far from it.</p>
+                  <p>The Governors and Commanders of Ca<g ref="char:EOLhyphen"/>ſtles and Forts were ſent for, and Enquiry made what Stores and Proviſions they had in them, and Orders given to furniſh them with Proviſions for ſix Months, and with all neceſ<g ref="char:EOLhyphen"/>ſary Ammunition; for which end ſuch quan<g ref="char:EOLhyphen"/>tities of Powder and other Ammunition as were to be had here, were order'd to be bought, and Orders were ſent over the King<g ref="char:EOLhyphen"/>dom to the other Towns, for ſending to the Council an account of what Powder or other Ammunition was any where to be found: And in the mean while, the Magiſtrates of the place were order'd to take care, that none of it be ſold without their Authority.</p>
+                  <p>Upon ſome Information which the Council receiv'd, particular care hath been taken of the Caſtle of <hi>Edinburgh,</hi> by removing all ſuſpected and unneceſſary People out of it, and by put<g ref="char:EOLhyphen"/>ting one of the inferiour Officers under an Ar<g ref="char:EOLhyphen"/>reſt. Upon information that many diſaffected People were come to Town, and ſome lately from abroad, the Gates of the Town were ſhut, and a general Search was made, and ſome few apprehended; but for the greater ſecre<g ref="char:EOLhyphen"/>cy in time coming, the Council ſigned a War<g ref="char:EOLhyphen"/>rant to the <hi>Chancellor,</hi> to ſeize on the Arms and Horſes of perſons whom he ſhould judge diſ<g ref="char:EOLhyphen"/>affected, and ſuch perſons themſelves, whom he ſhould keep in Cuſtody till they were pre<g ref="char:EOLhyphen"/>ſented by him to the Council at its next mee<g ref="char:EOLhyphen"/>ting. The Magiſtrates of this City were cal<g ref="char:EOLhyphen"/>led for, and the care of the ſame recommen<g ref="char:EOLhyphen"/>ded to them, particularly, to double their Guards, and to have the Names of all thoſe that come hither every night, and that are not Inhabitants, to be brought to them; and that the Magiſtrates conſider thoſe Names, and de<g ref="char:EOLhyphen"/>liver to the Chancellor at leaſt once every week Liſts of ſuch of them as are ſuſpected or unknown. The Council hath likewiſe orde<g ref="char:EOLhyphen"/>red, That Fencible-men, and Heretors, (that is, as you call 'em, the Gentry and richeſt ſort of Freeholders) all over the <hi>Kingdom,</hi> to be in a readineſs with their Horſes and Arms to meet under their ſeveral Commanders upon Advertiſement given them, either by particular Order, or by the ſignal of Fires upon Beacons, which are order'd to be kindled upon the firſt appearance of a Fleet on the Coaſt. Letters are alſo ſent to all the Members of Council, requiring them to attend; and the Council or Committees of Council are to ſit every day during the preſent Alarms.</p>
+                  <p>The Council being inform'd, that ſome diſ<g ref="char:EOLhyphen"/>affected Church-men prayed either for the late Government, or not for this, or in ſuch ambi<g ref="char:EOLhyphen"/>guous words, that their meaning was clear enough to be underſtood they meant the late King, ordered the Proclamation which I ſend you incloſed to be publiſh'd. The Council had publiſh'd the other Proclamation, which I alſo ſend you, ſome time before; but I ſend it to ſhew you, that the generality of our Church-men are well inclin'd.</p>
+                  <p>Thus, Sir, whatever Zeal you in <hi>England</hi> may have inwardly, we do hitherto at leaſt ſhew as much.</p>
+                  <p>'Tis true, there are <hi>Diſcontents</hi> and <hi>Diviſions</hi> among us, but the ſubject of them is either the leſſer concerns of what generally we take to be Religion, and for which ſometimes <hi>we</hi> may in<g ref="char:EOLhyphen"/>deed <hi>conſiderately</hi> enough <hi>venture,</hi> but ſure, will ne'r in a plain caſe throw away the greater; or it is Remains of Animoſities from the memory of the Violences of the late Reigns; but to en<g ref="char:EOLhyphen"/>deavour to bring back thoſe Reigns, were an odd way of reſenting ſuch Violences, and which one would think no man in theſe King<g ref="char:EOLhyphen"/>doms, that has either Senſe or Honeſty, ſhould be guilty of. I am</p>
+                  <closer>
+                     <salute>Sir,</salute> 
+                     <signed>
+                        <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="proclamation">
+               <pb facs="tcp:151598:2"/>
+               <head>A Proclamation Anent Miniſters not Pray<g ref="char:EOLhyphen"/>ing for Their Majeſties, King <hi>William</hi> and Queen <hi>Mary.</hi>
+               </head>
+               <opener>
+                  <signed>
+                     <hi>WIlliam</hi> and <hi>Mary</hi> by the Grace of God, King and Queen of Great <hi>Britain, France</hi> and <hi>Ireland</hi> Defenders of the Faith.</signed>
+                  <salute>To Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs in that part, conjunctly, and ſeverally, ſpecially conſtitute Greeting:</salute>
+               </opener>
+               <p>Foraſmuch, as albeit, by the Act of the Meeting of Eſtates of this our Antient Kingdom, Dated the 13th day of <hi>April, 1689,</hi> Our Leidges were Certified, not to own or acknowledge the late K. <hi>James</hi> the Second for their King, but that they, and every one of them, ſhould render their dutiful Obedience to Us; and in particular, that all the Miniſters of the Goſpel within this Kingdom ſhould publickly Pray for Us, as King and Queen of this Realm, under the Pains and Certifications ſpecified in the ſaid Act: As alſo, We with Advice of Our Eſtates of Parli<g ref="char:EOLhyphen"/>ament, by Our Act of 22th of <hi>July, 1690.</hi> Or<g ref="char:EOLhyphen"/>dained the ſaid Act and Proclamation of the Eſtates of this our Kingdom, to be put to further Executi<g ref="char:EOLhyphen"/>on, againſt all ſuch Miniſters who had not given O<g ref="char:EOLhyphen"/>bedience thereto, by praying for Us, in manner men<g ref="char:EOLhyphen"/>tioned in the ſaid Act: And that the Lords of Our Privy Council ſhould proceed therein, or im<g ref="char:EOLhyphen"/>power other Magiſtrates to do the ſame within their reſpective bounds, as they ſhould ſee Cauſe. Yet nevertheleſs, the ſaid Acts have been ſo far from receiving the punctual and exact Obedience due to them, That many Preachers have either preſumed wholly to neglect Praying for Us, as King and Queen of this Realm, conform to the ſaids Acts, or at leaſt have ſo far teſtified a want of Ingenuity and Plainneſs required in a Duty of this Nature, that they make uſe of ſuch ambiguous and unclear Ex<g ref="char:EOLhyphen"/>preſſions in their Prayers, that the hearers cannot diſtinctly know they Pray for Us, to the Great Di<g ref="char:EOLhyphen"/>ſparagement of the ſaids Laws, and contempt of Our Authority. Therefore We, with Advice of the Lords of Our Privy Council, do ſtrictly require and Command the Sheriff of the ſeveral Shires, Bai<g ref="char:EOLhyphen"/>lies of Regalities, Stewarts of Stewarties, and Magiſtrats of the Burghs Royal of this Kingdom within their Bounds and Juriſdictions reſpective, to make due and exact tryal what Miniſters Preach<g ref="char:EOLhyphen"/>ing in Churches or Meeting-Houſes, within their re<g ref="char:EOLhyphen"/>ſpective bounds, Pray not ordinarly for Us, in ſuch circumſtantiat Terms, as their Hearers may diſtinct<g ref="char:EOLhyphen"/>ly know that they Pray for Us, as King and Queen of this Realm; and for that effect, We with the Advice foreſaid, Hereby Require and Impower the ſeveral Magiſtrats reſpective foreſaids, to conveen and call before them ſuch perſons as they ſhall think fit, to give Information and Evidence againſt ſuch Miniſters Preaching in Churches or Meeting-Houſes, who fail in their Obedience to the Acts above-men<g ref="char:EOLhyphen"/>tioned, in manner above ſet down, and that the ſaids Magiſtrats reſpective, Tranſmit under their Hands, to the Clerks of Our Privy Council, betwixt and the firſt day of <hi>June</hi> next to come, (for ſuch as are on this ſide of the Water of <hi>Tay,</hi> and the fifteenth day of the ſaid Month, for theſe on the other ſide thereof,) the Names of the ſeveral Miniſters offend<g ref="char:EOLhyphen"/>ing in the Premiſſes, with the place of their reſi<g ref="char:EOLhyphen"/>dence, and the original Information and Evidence they have received and taken againſt them, to the Effect they may be Proſecute with all Rigor, and the Penalties and Certifications in the ſaids Laws con<g ref="char:EOLhyphen"/>tained, juſtly Inflicted and Executed againſt them. With Certification to the ſaids reſpective Magiſtrats who fail herein, they ſhall be repute as Connivers at, and Abettors of the ſaids Offenders, and negligent in the Execution and performance of their Offices and Duty committed to them, and proſecute as ſuch accor<g ref="char:EOLhyphen"/>dingly. Our Will is Herefore, and we Charge you ſtrictly and Command, That incontinent theſe Our Letters ſeen, ye paſs to the Mercat cr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs of <hi>Edin<g ref="char:EOLunhyphen"/>burgh,</hi> and to the remanent Mercat-croſſes of the Head-Burghs of the ſeveral Sheres of this Our An<g ref="char:EOLhyphen"/>tient Kingdom, and there; in Our Name and Au<g ref="char:EOLhyphen"/>thority, by open Proclamation, make intimation of the Premiſſes: And Ordains theſe Preſents to be Printed and Publiſhed in manner foreſaid.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given under our Signet at</hi> Edinburgh, <date>
+                        <hi>the twenty eighth day of</hi> April. <hi>And of our Reign, the fourth Year, 1692.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Per actum Dominorum Secreti Concilii, In Supplementum Signeti. <hi>GILB. ELIOT,</hi> Cls. Sti, Concilii. </signed>
+               </closer>
+               <closer>
+                  <hi>God ſave King <hi>William</hi> and Queen <hi>Mary.</hi>
+                  </hi>
+               </closer>
+            </div>
+            <div type="proclamation">
+               <head>A Proclamation, for a Solemn, National, Monthly Faſt.</head>
+               <opener>
+                  <signed>
+                     <hi>WILLIAM</hi> and <hi>MARY,</hi> by the Grace of God, King and Queen of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defenders of the Faith;</signed>
+                  <salute>to Our Lyon King at Arms, and his Bre<g ref="char:EOLhyphen"/>thren Heraulds, Macers of our Privy Council, Pur<g ref="char:EOLhyphen"/>ſevants, Meſſengers at Arms, our Sheriffs in that part, conjunctly, and ſeverally, ſpecially conſtitute, greeting:</salute>
+               </opener>
+               <p>Foraſmuch as ſeveral Synods, and others of this Church, have applyed to the Lords of our Privy Council, that they would interpoſe their Au<g ref="char:EOLhyphen"/>thority, for indicting and keeping a ſolemn National Faſt and Humiliation, in all the Kirks and Meet<g ref="char:EOLhyphen"/>ing-houſes of this our ancient Kingdom, to implore the Bleſſing of the Lord upon us in our Counſels and Undertakings, in defence of the true Reformed Re<g ref="char:EOLhyphen"/>ligion, and of theſe Lands, and relief of the Oppreſ<g ref="char:EOLhyphen"/>ſed abroad; and eſpecially, that God would coun<g ref="char:EOLhyphen"/>tenance Us in the preſent War, preſerving our Royal Perſon, and giving Succeſs to our Arms by Sea and Land, and preſerve and eſtabliſh the Proteſtant Religion at home and abroad. Therefore We, with Advice of the Lords of our Privy Council, do here<g ref="char:EOLhyphen"/>by command and enjoyn, That the ſaid ſolemn Faſt and Humiliation, for the Ends above ſet down, be religiouſly obſerved by all perſons within this Kingdom, both in Churches and Meeting-houſes, upon the 25th day of <hi>May</hi> next, being the laſt <hi>Wedneſday</hi> of that Month, and thereafter month<g ref="char:EOLhyphen"/>ly, upon the laſt <hi>Wedneſday</hi> of each Month, until the laſt <hi>Wedneſday</hi> of <hi>September</hi> next <hi>incluſive.</hi> And ordains all Miniſters, either in Kirks or Mee<g ref="char:EOLhyphen"/>ting-houſes, to read theſe Preſents publickly from the Pulpit, a <hi>Sunday</hi> or two before the firſt day ap<g ref="char:EOLhyphen"/>pointed for keeping the ſaid Faſt and Humiliation, and upon a <hi>Sunday</hi> before each laſt <hi>Wedneſday,</hi> during the ſpace foreſaid. And to the effect that this ſo neceſſary and religious a Duty may be pub<g ref="char:EOLhyphen"/>lickly performed, and punctually obſerved, and Our pleaſure in the Premiſſes known. Our Will is, and We charge you straitly, and command, that inconti<g ref="char:EOLhyphen"/>nent, theſe our Letters ſeen, ye paſs to the Marcat<g ref="char:EOLhyphen"/>croſs of <hi>Edenburgh,</hi> and remanent Marcat Croſſes of the Head-burghs of the ſeveral Shires and Ste<g ref="char:EOLhyphen"/>wartries within this Kingdom, and in Our Name and Authority, make publication of the Premiſſes, that none may pretend Ignorance. And We or<g ref="char:EOLhyphen"/>dain our Sollicitor to diſpatch Copies hereof, to the Sheriffs of the ſeveral Shires and Stewarts of the Stewartries, and their Deputes or Clerks, to be by them publiſhed at the Marcat-Croſſes of the Head-Burghs, upon receipt thereof, and immediately ſent to the ſeveral Ministers, both in Kirks and Mee<g ref="char:EOLhyphen"/>ting-houſes, to the effect they may read, and inti<g ref="char:EOLhyphen"/>mat the ſame from their Pulpits, and may ſeriouſly exhort all perſons to a ſincere and devote Obſervance thereof, as they will be anſwerable at their Peril: And ordains th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Preſents to be printed, and pub<g ref="char:EOLhyphen"/>liſhed in manner aforeſaid.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given under our Signet at</hi> Edinburgh, <date>
+                        <hi>the</hi> 21ſt <hi>day of</hi> April, <hi>and of our Reign the fourth Year, 1692.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Per actum Dominorum Secreti Concilii. In Supplementum Signeti. <hi>DA. MONCREIF,</hi> Cls. Sti. Concilii. </signed>
+               </closer>
+               <closer>
+                  <hi>God ſave King <hi>William</hi> and Queen <hi>Mary</hi>
+                  </hi>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Tim. Goodwin</hi> at the Maidenhead in <hi>Fleetſtreet.</hi>
+            </p>
+            <pb facs="tcp:151598:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151598:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
